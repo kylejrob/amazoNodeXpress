@@ -7,4 +7,5 @@ first npm install mysql and prompt
 
 to create database in mysql called amazoNodeXpress_db open amazoNodeXpress.sql file and execute commands in mysql to create the database
 
-![](Images/ImageOne.png)
+![](images/ImageOne.png)
+![](images/ImageTwo.png)
