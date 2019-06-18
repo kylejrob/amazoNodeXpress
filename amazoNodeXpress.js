@@ -5,7 +5,7 @@ var prompt = require("prompt");
 var connection = mysql.createConnection({
     host : "localhost",
     user : "root",
-    password : "Colorado123!",
+    password : "",
     database : "amazoNodeXpress_db"
 });
 
